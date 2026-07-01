@@ -55,3 +55,21 @@ def teskari(matn):
 
 def uzunligi(matn):
     return len(matn)
+
+
+
+
+def yigindi_list(lst):
+    return sum(lst)
+
+
+def eng_katta(lst):
+    return max(lst)
+
+
+def eng_kichik(lst):
+    return min(lst)
+
+
+def uzunligi_list(lst):
+    return len(lst)
