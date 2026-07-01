@@ -73,3 +73,18 @@ def eng_kichik(lst):
 
 def uzunligi_list(lst):
     return len(lst)
+
+
+def faktorial(n):
+    natija = 1
+    for i in range(1, n + 1):
+        natija *= i
+    return natija
+
+
+def daraja(a, b):
+    return a ** b
+
+
+def abs_son(a):
+    return abs(a)
